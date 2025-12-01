@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPnF6jfHddM=",
+  "dgSpecHash": "xBY6HU2884c=",
   "success": true,
-  "projectFilePath": "/workspaces/ConsoleTemplate/ConsoleTemplate.csproj",
-  "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/mjd@bryanston.co.uk/Library/CloudStorage/OneDrive-BryanstonSchool/2025 Advent Of Code/2025AdventOfCode_1/ConsoleTemplate.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
